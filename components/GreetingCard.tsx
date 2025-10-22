@@ -41,7 +41,7 @@ export const GreetingCard: React.FC<GreetingCardProps> = ({ onNext }) => {
 
         <div className="bg-white rounded-2xl shadow-lg p-4 w-full max-w-[280px] sm:max-w-xs opacity-0 animate-[fadeInUp_0.6s_0.8s_ease-out_forwards]">
           <img
-            src="img/image1.png"
+            src="BhaiDoojV1/img/image1.png"
             alt="Brother and Sister Doodle"
             className="rounded-lg w-full h-auto"
           />
