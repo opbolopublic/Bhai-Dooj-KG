@@ -35,7 +35,7 @@ export const ThankYouCard: React.FC<ThankYouCardProps> = ({ onBack }) => {
             made with <span className="text-[#E98FA9]">♥</span>, chocolates & sparkles — always yours
           </p>
            <img
-            src="/img/thankyou-char.png"
+            src="img/thankyou-char.png"
             alt="Cute character"
             className="absolute -bottom-4 right-0 w-20 h-auto"
           />
