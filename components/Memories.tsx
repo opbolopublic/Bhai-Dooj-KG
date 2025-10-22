@@ -9,15 +9,15 @@ interface MemoriesProps {
 
 const memoriesData = [
   {
-    src: '/img/memory1.png',
+    src: 'img/memory1.png',
     caption: 'My Partner in Crime 😊',
   },
   {
-    src: '/img/memory2.png',
+    src: 'img/memory2.png',
     caption: 'Always stealing my food! 🍟',
   },
   {
-    src: '/img/memory3.png',
+    src: 'img/memory3.png',
     caption: 'Best nap buddy 😴',
   },
 ];
