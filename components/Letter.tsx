@@ -34,7 +34,7 @@ export const Letter: React.FC<LetterProps> = ({ onBack, onNext }) => {
     <div className="flex flex-col items-center w-full max-w-md flex-grow justify-center animate-[fadeInUp_0.5s_ease-out]">
       <main className="relative w-full bg-white rounded-2xl shadow-lg p-6 sm:p-8 text-center opacity-0 animate-[fadeInUp_0.6s_0.2s_ease-out_forwards]">
         <img
-          src="/img/shinchan.png"
+          src="img/shinchan.png"
           alt="Shinchan character"
           className="absolute -top-12 -right-4 sm:-right-6 w-24 h-auto opacity-0 animate-[fadeInUp_0.6s_1s_ease-out_forwards]"
         />
@@ -59,7 +59,7 @@ export const Letter: React.FC<LetterProps> = ({ onBack, onNext }) => {
 
         <div className="relative mt-8 flex items-center justify-center opacity-0 animate-[fadeInUp_0.6s_1s_ease-out_forwards]">
             <img 
-                src="/img/stamp.png"
+                src="img/stamp.png"
                 alt="Happy Bhai Dooj Stamp"
                 className="absolute left-0 -bottom-4 w-24 h-auto transform -rotate-12"
             />
