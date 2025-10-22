@@ -10,9 +10,9 @@ interface MusicPlayerProps {
 }
 
 const playlist = [
-    { title: 'ishq wala love', src: '/music/music.mp3', image: '/img/music1.png' },
-    { title: 'Raataan lamiyan', src: '/music/music2.mp3', image: '/img/music2.png' },
-    { title: 'ride it', src: '/music/music3.mp3', image: '/img/music3.png' },
+    { title: 'ishq wala love', src: 'music/music.mp3', image: '/img/music1.png' },
+    { title: 'Raataan lamiyan', src: 'music/music2.mp3', image: '/img/music2.png' },
+    { title: 'ride it', src: 'music/music3.mp3', image: '/img/music3.png' },
 ];
 
 export const MusicPlayer: React.FC<MusicPlayerProps> = ({ onBack, onNext }) => {
