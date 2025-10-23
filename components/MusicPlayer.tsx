@@ -10,7 +10,7 @@ interface MusicPlayerProps {
 }
 
 const playlist = [
-    { title: 'ishq wala love', src: '/music/music.mp3', image: 'https://cdn.discordapp.com/attachments/809802832014344202/1430740316176122018/Screenshot_2025_1023_073955.jpg?ex=68fae041&is=68f98ec1&hm=6cb69814c56e0b818a77886f8de7bf5fdb3121e48af019e2b4673e15d979dea7&' },
+    { title: 'ishq wala love', src: 'https://cdn.discordapp.com/attachments/809802832014344202/1430746079137103955/Ishq_Wala_Love_Student_Of_The_Year_320_Kbps.mp3?ex=68fae59f&is=68f9941f&hm=13fc111471d8d71404fcde495246a0ab571179aab761f4f1a091451352a08438&', image: 'https://cdn.discordapp.com/attachments/809802832014344202/1430740316176122018/Screenshot_2025_1023_073955.jpg?ex=68fae041&is=68f98ec1&hm=6cb69814c56e0b818a77886f8de7bf5fdb3121e48af019e2b4673e15d979dea7&' },
     { title: 'Raataan lamiyan', src: 'music/music2.mp3', image: 'https://cdn.discordapp.com/attachments/809802832014344202/1430740316574711859/Screenshot_20251023_073940.jpg?ex=68fae041&is=68f98ec1&hm=8090b8592bd65cc598c73e2923099d1585dc80237a9af7f2cb1448a11244627d&' },
     { title: 'Luv letter', src: 'music/music3.mp3', image: 'https://cdn.discordapp.com/attachments/809802832014344202/1430740317010923651/Screenshot_20251023_073936.jpg?ex=68fae041&is=68f98ec1&hm=5475f1a5380f636d4f8bcbfb50b9426f4ee28ecdf0ea22e81511ba337a690605&' },
 ];
