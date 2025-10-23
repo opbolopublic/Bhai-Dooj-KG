@@ -41,7 +41,7 @@ export const GreetingCard: React.FC<GreetingCardProps> = ({ onNext }) => {
 
         <div className="bg-white rounded-2xl shadow-lg p-4 w-full max-w-[280px] sm:max-w-xs opacity-0 animate-[fadeInUp_0.6s_0.8s_ease-out_forwards]">
           <img
-            src="./img/image1.png"
+            src="https://cdn.discordapp.com/attachments/809802832014344202/1430616156141654156/aa74f506b9f4fb67d6cb88a820f8bb85.jpg?ex=68fa6c9f&is=68f91b1f&hm=baab8b4360dc961deb52919d0aed41bde4305c952ce2bc3aba8d1d6ed9be96f0&"
             alt="Brother and Sister Doodle"
             className="rounded-lg w-full h-auto"
           />
