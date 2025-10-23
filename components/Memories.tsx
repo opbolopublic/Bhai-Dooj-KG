@@ -9,15 +9,15 @@ interface MemoriesProps {
 
 const memoriesData = [
   {
-    src: 'img/memory1.png',
+    src: 'https://cdn.discordapp.com/attachments/809802832014344202/1430614805932277871/cbe16f21c5265efed975e88ce53ff3ea.jpg?ex=68fa6b5d&is=68f919dd&hm=b087acf404f69c5f4373789e47a01fb30ee9ac41c57f210426bff7eb05ba5bb1&',
     caption: 'My Partner in Crime 😊',
   },
   {
-    src: 'img/memory2.png',
+    src: 'https://cdn.discordapp.com/attachments/809802832014344202/1430614806225883186/de94c96a8328ca0313c4225ba1f4e0ed.jpg?ex=68fa6b5d&is=68f919dd&hm=821f7dc2eb32dfa2d2617cfce2081d874b8a6f512809f6d8105c6b1a16867af5&',
     caption: 'Always stealing my food! 🍟',
   },
   {
-    src: 'img/memory3.png',
+    src: 'https://cdn.discordapp.com/attachments/809802832014344202/1430614806788046988/d6ea845ff9775d6bf19458328f4c39ed.jpg?ex=68fa6b5d&is=68f919dd&hm=7028e0b90c789876a6aa1b7261f68dc6b23b81efb6bdb8f632bc75ecfc88998f&',
     caption: 'Best nap buddy 😴',
   },
 ];
