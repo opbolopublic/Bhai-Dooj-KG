@@ -34,7 +34,7 @@ export const Letter: React.FC<LetterProps> = ({ onBack, onNext }) => {
     <div className="flex flex-col items-center w-full max-w-md flex-grow justify-center animate-[fadeInUp_0.5s_ease-out]">
       <main className="relative w-full bg-white rounded-2xl shadow-lg p-6 sm:p-8 text-center opacity-0 animate-[fadeInUp_0.6s_0.2s_ease-out_forwards]">
         <img
-          src="img/shinchan.png"
+          src="https://cdn.discordapp.com/attachments/809802832014344202/1430739248675291136/e5d8ee323f9526725d6ad355eaed7b05.gif?ex=68fadf42&is=68f98dc2&hm=b3b2c9fbd687d1963722a3e9b7f2dd6d52d94028689f70e64e05b1f9c595c272&"
           alt="Shinchan character"
           className="absolute -top-12 -right-4 sm:-right-6 w-24 h-auto opacity-0 animate-[fadeInUp_0.6s_1s_ease-out_forwards]"
         />
@@ -59,7 +59,7 @@ export const Letter: React.FC<LetterProps> = ({ onBack, onNext }) => {
 
         <div className="relative mt-8 flex items-center justify-center opacity-0 animate-[fadeInUp_0.6s_1s_ease-out_forwards]">
             <img 
-                src="img/stamp.png"
+                src="https://cdn.discordapp.com/attachments/809802832014344202/1430616801326403677/812715480b54821cbb78e24426d7dfad.jpg?ex=68fa6d39&is=68f91bb9&hm=6e77e98811a20ebd1074168e031401fe79bd80032000cd1f3f329209b581f9d9&"
                 alt="Happy Bhai Dooj Stamp"
                 className="absolute left-0 -bottom-4 w-24 h-auto transform -rotate-12"
             />
